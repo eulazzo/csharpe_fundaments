@@ -1,4 +1,6 @@
-﻿namespace Acourse
+﻿/*
+
+namespace Acourse
 {
   class MainClass
   {
@@ -15,3 +17,4 @@
 
   }
 }
+*/
