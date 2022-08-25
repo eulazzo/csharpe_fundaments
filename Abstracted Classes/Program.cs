@@ -1,4 +1,5 @@
-﻿namespace Acourse
+﻿/*
+namespace Acourse
 {
   class MainClass
   {
@@ -35,5 +36,8 @@ Métodos Abstratos:
 - Um método abstrato é um método virtual e deve ser implementado usando o modificador override.
 - Um método abstrato somente pode existir em uma classe abstrata.
 - Um método abstrato não pode usar os modificadores static e virtual.
+
+*/
+
 
 */

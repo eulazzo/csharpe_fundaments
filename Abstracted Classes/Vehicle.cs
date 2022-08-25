@@ -1,3 +1,5 @@
+/*
+
 
 namespace Acourse
 {
@@ -20,3 +22,5 @@ namespace Acourse
     public abstract void Move(double distance);
   }
 }
+
+*/
